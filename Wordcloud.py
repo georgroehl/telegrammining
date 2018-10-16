@@ -7,8 +7,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import mlab
 
-from emoji_parse import EmojiDict
-
 from wordcloud import WordCloud
 
 
